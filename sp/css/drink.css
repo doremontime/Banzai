@@ -1,0 +1,191 @@
+#sec1{
+	background: url("../img/menu/bg1.jpg") repeat center top ;
+	color: #fff;
+	padding-top: 15px;
+	padding-bottom: 78px;
+}
+#sec2{
+	letter-spacing: 0.5px;
+	z-index: 1;
+}
+#sec2 > div{
+	background:  url("../img/menu/bg2.jpg") repeat center top;
+	padding-top: 24px;
+}
+#sec2 .inner1{
+	background: url("../img/drink/bg_box_01.jpg") no-repeat center top, url("../img/drink/bg_box_01.jpg") no-repeat center bottom, url("../img/drink/bg_box_02.png") repeat-y center top ;
+    background-size: 100%;
+}
+#sec2 .info{
+	background: url("../img/drink/bg5.jpg") repeat center top ;
+	padding: 6px;
+	color: #fff;
+	box-shadow: 0 0 4px 0 #dcc090;
+}
+#sec2 .info > div{
+	background: url("../img/drink/bg6.jpg") repeat center top ;
+	box-shadow: 0 0 8px 0 #2e3c00 inset;
+	padding-bottom: 24px;
+}
+#sec2 .info ul{
+	width: 90%;
+	margin: 0 auto;
+}
+#sec2 .info1 li{
+    background: url("../img/drink/icon3.png") no-repeat 2px 11px;
+}
+#sec2 .info2 li{
+    background: url("../img/drink/icon4.png") no-repeat 2px 11px;
+}
+#sec2 .info3 li{
+    background: url("../img/drink/icon5.png") no-repeat 2px 11px;
+}
+#sec2 .info ul li{
+    padding-left: 22px;
+	float: left;
+	width: 50%;
+}
+#sec2 .info3 dd{
+	font-size: 20px;
+    color: #de874d;
+}
+#sec2 .info3 dd span{
+	font-size: 26px;
+}
+
+#sec2 .icon1{
+	padding-top:1em;
+}
+#sec2 .inner2{
+	background: url("../img/drink/bg7.jpg") repeat center top, url("../img/drink/bg_sec2_info.jpg") no-repeat center top;
+	padding: 0 0 20px;
+	box-shadow: 0 0 6px 0 #e4c9a0;
+}
+
+#sec2 .photo{
+	position: relative;
+    padding: 30px;
+}
+#sec2 .photo img{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+#sec2 .inner2 dl{
+    color: #d04b4b;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: right;
+}
+#sec2 .inner2 dd{
+	font-size: 20px;
+}
+#sec2 .inner2 dd span{
+	font-size: 26px;
+}
+
+#sec3{
+	background: url("../img/menu/bg1.jpg") repeat center top;
+	letter-spacing: 0.5px;
+	color: #fff;
+}
+#sec3 .inner{
+background: url("../img/drink/bg_sec3_info_01.jpg") no-repeat center top, url("../img/drink/bg_sec3_info_03.jpg") no-repeat center bottom, url("../img/drink/bg_sec3_info_02.jpg") repeat-y center 31px;
+    padding: 6px 0 32px;
+    margin: 20px auto 26px;
+	box-shadow: 0 2px 6px 0 #a07240;
+}
+#sec3 ul.drink_first{
+    padding-bottom: 12px;
+	float:left;
+}
+#sec3 ul{
+    margin-left: 5px;
+    padding-bottom: 35px;
+	float:left;
+}
+#sec3 li.list_non{
+	background:none;
+	padding-left:0px !important;
+    width: 193px;
+	font-size:17px;
+	color:#FFAE77;
+	line-height:16px;
+	padding: 20px 0;
+}
+#sec3 li.list_non.p_t0{
+	padding-top: 0;
+}
+#sec3 li{
+    background: url("../img/drink/icon6.png") no-repeat 2px 11px;
+    padding-left: 22px;
+    width: 193px;
+}
+#sec3 h3 {
+    font-size: 25px;
+    line-height: 30px;
+    background: url("../img/menu/bg_br.png") repeat-x left bottom;
+    width: 90%;
+    margin: 0 auto 9px;
+    text-align: center;
+    padding: 18px 0 6px;
+}
+#sec3 .icon2 {
+	position: relative;
+}
+#sec3 .icon2 img{
+    position: absolute;
+    right: 0px;
+    top: -30px;
+}
+#sec3 dl{
+	padding: 20px 10px;
+}
+#sec4{
+	background: url("../img/drink/bg_sec4.png") no-repeat center top, url("../img/drink/bg_sec4_t.png") no-repeat center top / 100% 24px ,url("../img/drink/bg_sec4_bt.jpg") repeat-x center bottom,url("../img/menu/bg3.jpg") repeat center top;
+	padding: 56px  0 66px;
+}
+#sec4 .btn-acc {
+    background: url(../img/menu/bg_br2.png) repeat-x left bottom;
+	color: #743200;
+    padding: 10px 0;
+}
+#sec4 .txt1{
+	padding-left: 20px;
+    width: 267px;
+    margin: 0 auto;
+}
+#sec4 .list1{
+	padding-top: 32px;
+}
+#sec4 .w_330 {
+    margin-left: 13px;
+}
+#sec4 .data{
+	 background: url("../img/menu/bg_box.png") no-repeat center top;
+     background-size: 100%;
+	 width: 320px;
+	 margin: 40px auto auto;
+	 height: 294px;
+	 font-size: 14px;
+}
+#sec4 .data p{
+	color: #FFF;
+    padding: 125px 20px 0 34px;
+    line-height: 30px;
+	font-weight:bold;
+}
+
+.sec_menu h4{
+	color: #2b1706;
+    font-size: 25px;
+    line-height: 30px;
+    background: url("../img/menu/bg_br2.png") repeat-x left bottom;
+    width: 267px;
+    margin: 0 auto 9px;
+    text-align: center;
+    padding: 18px 0 6px;
+}
+.style5 dd{
+	width: 88px;
+}

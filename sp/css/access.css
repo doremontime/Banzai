@@ -1,0 +1,37 @@
+#lead{
+	background:url("../img/menu/bg2.jpg") repeat center top;
+	padding: 30px 0 15px;
+    letter-spacing: 0.5px;
+	line-height: 22px;
+}
+#lead tr{
+    display: block;
+	background: url("../img/access/bg_line.png") no-repeat center bottom ;
+}
+#lead th{
+    vertical-align: top;
+    text-align: left;
+    font-weight: bold;
+    width: 25vw;
+    padding-top: 16px;
+}
+#lead td{
+    padding:  16px 0 4px;
+}
+
+#sec1{
+	background: url("../img/access/bg_sec1_rp.jpg") repeat center top;
+	letter-spacing: 0.5px;
+	color: #FFF;
+}
+
+#sec1 .zashiki{
+	position: relative;
+
+}
+#sec1 .zashiki p:last-child{
+	position: absolute;
+	top:25%;
+	right:0;
+}
+

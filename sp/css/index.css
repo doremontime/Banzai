@@ -1,0 +1,76 @@
+
+.news {
+	padding: 20px 10px;
+
+}
+
+#lead .txt{
+	background: url("../img/index/bg_lead2.jpg") no-repeat center top;
+	background-size: 100%;
+	margin-bottom: 0;
+}
+
+#sec1{
+	background: url("../img/index/bg_sec1_ct.jpg") no-repeat center top, url("../img/index/bg_sec1.png") no-repeat center top ;
+	padding: 40px 0 59px;
+	color: #FFF;
+	position: relative;
+	z-index: 1;
+}
+#sec1 .txt{
+	padding: 6px 0 18px;
+}
+#sec1 p a img:first-child {
+	width: 27.82%;
+	float: left;
+}
+#sec1 p a img:last-child {
+	width: 72.18%;
+	float: right;
+}
+#sec1 p.btn1 a img:first-child {
+	width: 72.4%;
+	float: left;
+}
+#sec1 p.btn1 a img:last-child {
+	width: 27.6%;
+	float: right;
+}
+#sec3{
+	background: url("../img/index/bg_sec3.jpg") no-repeat center center / cover ;
+}
+
+#sec4_bg{
+	background: url("../img/index/rss_bg.jpg") repeat center center ;
+}
+
+#feed{
+    padding-top: 13px;
+    margin:0 20px;
+    min-height: 108px;
+}
+#feed dl{
+	color:#EFD9AA;
+    font-weight: bold;
+    line-height: 18px;
+    letter-spacing: 1.2px;
+    padding-bottom: 15px;
+}
+#feed dt{
+    color:#780700;
+}
+#feed dt span{
+	font-size: 6px;
+}
+#feed dd.rss_ttl{
+}
+#feed dd a{
+	color:#EFD9AA;
+}
+#feed dd a:hover{
+	text-decoration: underline;
+}
+
+#feed dd.rss_post{
+	color:#000000;
+}

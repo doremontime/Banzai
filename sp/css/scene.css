@@ -1,0 +1,100 @@
+.w_70 {
+	width:70%;
+}
+#sec1{
+	background: url("../img/menu/bg2.jpg") repeat center top ;
+}
+#sec1 .info{
+	background: url("../img/scene/bg_info_01.jpg") no-repeat center top, url("../img/scene/bg_info_01.jpg") no-repeat center bottom, url("../img/scene/bg_info_02.jpg") repeat-y center 6px ;
+    background-size: 100%;
+    margin-bottom:20px;
+}
+#sec1 .info li{
+    background: url("../img/scene/icon1.png") no-repeat 0 12px;
+    padding-left: 16px;
+}
+
+#sec1 .info1 {
+	padding-top: 10vw;
+	position: relative;
+}
+#sec1 .info1 h3 {
+    position: absolute;
+    bottom: 58vw;
+}
+#sec1 .ttl2 {
+	position: relative;
+}
+#sec1 .ttl2 img {
+	position: absolute;
+	left: 13vw;
+}
+#sec1 .info3 {
+	margin-top: 85px;
+}
+#sec1 .inner1{
+    background: url("../img/scene/bg8.jpg") repeat center top;
+    padding: 6px;
+    margin: 41px auto 30px;
+    box-shadow: 0 2px 6px 0 #ddc092;
+}
+#sec1 .inner1 > div{
+	background: url("../img/scene/bg_sec1.png") no-repeat center top,url("../img/scene/bg9.jpg") repeat center top;
+	padding-top: 16px;
+	padding-bottom: 33px;
+	box-shadow: 1px 0px 6px 3px #793f00 inset;
+	color: #FFF;
+}
+#sec1 .inner1 li{
+    background: url("../img/scene/icon2.png") no-repeat 0 12px;
+    padding-left: 16px;
+}
+#sec1 ul{
+	padding: 24px 24px 17px 44px;
+}
+
+#sec2{
+	background: url("../img/scene/bg_sec2_t.png") no-repeat center top / 100% 26px, url("../img/menu/bg3.jpg") repeat center top;
+}
+
+#sec2 .icon1{
+    position: relative;
+}
+#sec2 .icon1 img{
+	position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+#sec2 .inner2{
+	background: url("../img/scene/bg_sec2_info_01.jpg") no-repeat center top, url("../img/scene/bg_sec2_info_03.jpg") no-repeat center bottom, url("../img/scene/bg_sec2_info_02.jpg") repeat-y center 54px;
+	box-shadow: 0 2px 6px 0 #dab07a;
+	margin-top: 38px;
+	padding:6px 0 40px;
+	background-size:100%;
+}
+#sec2 .inner2 p{
+	padding-bottom: 0;
+}
+
+#sec2 .sec2_info{
+    padding: 24px 24px 17px 44px;
+}
+#sec2 .sec2_info p{
+    background: url("../img/scene/icon4.png") no-repeat 0 13px;
+    padding: 0 0 0 16px
+
+}
+#sec2 .inner2 ul{
+	padding: 4px 0 6px 13px;
+	line-height: 26px;
+}
+#sec2 .inner2 li{
+    background: url("../img/scene/icon5.png") no-repeat 0 11px;
+    padding-left: 16px;
+
+}
+#sec3{
+	background:  url("../img/menu/bg1.jpg") repeat center top;
+}
+

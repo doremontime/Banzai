@@ -1,0 +1,158 @@
+#sec1{
+	background: url("../img/menu/bg1.jpg") repeat center top ;
+}
+.price{
+	color: #bf2400;
+	font-size: 17px;
+	padding: 7px 0 0 0;
+}
+.price span{ 
+	font-size: 22px;
+}
+
+.info4 .price {
+	padding: 3px 0 0 0;
+}
+
+dd.txt {
+	padding-bottom:1em;
+}
+#sec2{
+	background: url("../img/menu/bg_sec2.png") no-repeat center top / 100% 24px ,url("../img/menu/bg_sec2_bt.png") no-repeat center bottom / 100% 25px , url("../img/menu/bg2.jpg") repeat center top;
+}
+#sec3{
+	background: url("../img/menu/bg_sec3.jpg") no-repeat center top,url("../img/menu/bg3.jpg") repeat center top;
+	padding: 30px  0;
+    background-size: 100%;
+}
+#sec3 .data{
+	 background: url("../img/menu/bg_box.png") no-repeat center top;
+     background-size: 100%;
+	 width: 320px;
+	 margin: 40px auto auto;
+	 height: 294px;
+	 font-size: 14px;
+}
+#sec3 .data p{
+	color: #FFF;
+    padding: 88px 20px 0 34px;
+    line-height: 30px;
+}
+#sec3 .data p span{
+	font-weight:bold;
+}
+#sec3 .btn-acc {
+    background: url("../img/menu/bg_br2.png") repeat-x left bottom;
+	color: #743200;
+	padding: 10px 0;
+}
+#sec3 h3{
+    font-size: 25px;
+    line-height: 30px;
+    background: url("../img/menu/bg_br2.png") repeat-x left bottom;
+    width: 267px;
+    margin: 0 auto 9px;
+    text-align: center;
+    padding: 18px 0 6px;
+}
+#sec3 .txt {
+	padding: 16px 0 1px;
+}
+#sec3 .txt2 {
+	width: 232px;
+    margin: 24px auto 3px ;
+}
+#sec3 .txt3 {
+    width: 232px;
+    margin: 30px auto;
+}
+#sec3 .note2 {
+	width:232px
+    margin: 29px auto 0 ;
+}
+.sec_menu {
+	background: url("../img/menu/bg_menu_01.png") no-repeat center top,  url("../img/menu/bg_menu_03.png") no-repeat center bottom;
+	padding: 3.7vw 0;
+	color: #361b08;
+	font-size: 15px;
+	line-height: 30px;
+	margin-bottom: 23px;
+	background-size: 100%;
+}
+
+.sec_menu > div{
+	background: url("../img/menu/bg_menu_02.png") repeat center top;
+	padding-bottom: 19px;
+	background-size: 100%;
+}
+.sec_menu ul{
+	width: 300px;
+    margin: 0 auto;
+}
+.sec_menu li{
+    background: url("../img/menu/icon2.png") no-repeat 0 10px;
+    margin-left: 35px;
+    padding-left: 13px;
+    text-align: left;
+}
+
+
+.listmenu{
+    background: url("../img/menu/bg_br.png") repeat-x left bottom;
+    font-size: 15px;
+    line-height: 30px;
+    width: 267px;
+    margin: 0 auto;
+    text-align: left;
+}
+.listmenu dt{
+    background: url("../img/menu/icon1.png") no-repeat 0 7px;
+    width: 172px;
+    float: left;
+    padding-left: 17px;
+}
+.listmenu dd{
+    width: 75px;
+    float: right;
+    text-align: right;
+    font-weight: bold;
+    color: #bf2400;
+    padding-right: 8px;
+}
+.listmenu.style1 dd{
+	padding-top: 31px;
+}
+.sec_menu .style2{
+	padding-top: 30px;
+}
+.sec_menu .style3 dt{
+	width: 190px;
+}
+.sec_menu .style3 dd{
+	width: 60px;
+}
+.sec_menu .style4{
+	background: none;
+}
+.sec_menu .style4 dd{
+	width: 100%;
+	padding-right: 0;
+}
+.sec_menu .style4 .col_1{
+    color: #361b08;
+    padding-left: 17px;
+    width: 135px;
+    float: left;
+    text-align: left;
+    font-weight: normal;
+}
+.sec_menu .style4 .col_2{
+ width: 88px;
+    float: right;
+    padding-right: 8px;
+}
+.sec_menu .style4 p{
+	background: url("../img/menu/bg_br.png") repeat-x left bottom;
+}
+
+
